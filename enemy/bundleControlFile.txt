@@ -1,0 +1,6 @@
+BundleName:enemy.unity3d
+VersionNumber:1
+
+BundleName:android_enemy.unity3d
+VersionNumber:1
+

@@ -1,0 +1,14 @@
+BundleName:enemy.unity3d
+NumberOfAssets:5
+ZombieDog.prefab
+ZombieHuangjin.prefab
+ZombieKing.prefab
+ZombieRest.prefab
+ZombieWuya.prefab
+BundleName:android_enemy.unity3d
+NumberOfAssets:5
+ZombieDog.prefab
+ZombieHuangjin.prefab
+ZombieKing.prefab
+ZombieRest.prefab
+ZombieWuya.prefab
